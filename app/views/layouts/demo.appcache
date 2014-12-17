@@ -3,4 +3,4 @@ CACHE MANIFEST
 /main.js
 
 FALLBACK:
-/html/ /second.html.erb
+/html/ /second.html
