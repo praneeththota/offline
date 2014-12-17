@@ -3,5 +3,6 @@ class HomeController < ApplicationController
   end
 
   def second
+  	render layout: false
   end
 end

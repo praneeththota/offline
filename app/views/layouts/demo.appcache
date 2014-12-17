@@ -1,0 +1,6 @@
+CACHE MANIFEST
+/theme.css
+/main.js
+
+FALLBACK:
+/html/ /second.html.erb
